@@ -1,0 +1,4 @@
+/Users/lenardpop/Desktop/ZooSimulator/ZooSimulator/obj/Debug/ZooSimulator.csproj.AssemblyReference.cache
+/Users/lenardpop/Desktop/ZooSimulator/ZooSimulator/obj/Debug/ZooSimulator.Form1.resources
+/Users/lenardpop/Desktop/ZooSimulator/ZooSimulator/obj/Debug/ZooSimulator.Properties.Resources.resources
+/Users/lenardpop/Desktop/ZooSimulator/ZooSimulator/obj/Debug/ZooSimulator.csproj.GenerateResource.cache
